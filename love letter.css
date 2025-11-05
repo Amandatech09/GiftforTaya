@@ -74,7 +74,7 @@ body {
   text-align: center;
   line-height: 22px;
   top: 25px;
-  left: 12%;
+  width: 100%;
   color: #003049;
   margin-bottom: 2px;
 }
@@ -246,4 +246,5 @@ body {
     transform: scaleX(0.85);
   }
 }
+
 
